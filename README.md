@@ -1,8 +1,10 @@
 # 397-People-Hindi-Speech-Data-by-Mobile-Phone_Guiding
-https://www.datatang.ai/datasets/119
+
 
 ## Description
 The data is recorded by 397 Indian with authentic accent, 50 sentences for each speaker, total 8.6 hours. The recording content involves car scene, smart home, intelligent voice assistant. This data can be used for corpus construction of machine translation, model training and algorithm research for voiceprint recognition.
+
+For more details, please refer to the link: https://bit.ly/3xQIipo
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 4 noise symbols, 5special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
