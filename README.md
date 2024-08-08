@@ -4,7 +4,7 @@
 ## Description
 The data is recorded by 397 Indian with authentic accent, 50 sentences for each speaker, total 8.6 hours. The recording content involves car scene, smart home, intelligent voice assistant. This data can be used for corpus construction of machine translation, model training and algorithm research for voiceprint recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/119?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/119?source=Github
 
 
 ## Format
